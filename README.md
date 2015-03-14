@@ -12,9 +12,9 @@
 
 JOIN CHAT を利用する場合は、GitHubのアカウントが必要です。
 
-<img src="http://keepingblog.net/github_images/workspace/ncxx_sl_boy.gif" width="250" height="300">
-<img src="http://keepingblog.net/github_images/workspace/doroid.gif" width="250" height="300">
-<img src="http://keepingblog.net/github_images/workspace/ncxx_sl_girl.gif" width="250" height="300">
+<img src="http://keepingblog.net/github_images/workspace/ncxx_sl_boy.gif" width="225" height="300">
+<img src="http://keepingblog.net/github_images/workspace/doroid.gif" width="225" height="300">
+<img src="http://keepingblog.net/github_images/workspace/ncxx_sl_girl.gif" width="225" height="300">
 
 ## ◆ 1人1アプリ開発のサンプルコードについて知りたい。
 - SampleQuestionのソースコード  

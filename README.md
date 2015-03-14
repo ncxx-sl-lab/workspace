@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/ncxx-sl-lab/workspace](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ncxx-sl-lab/workspace?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+**workspaceへようこそ！！**
+
 **ncxx-sl-labは社員のプログラミング学習をサポートするために作成されました。**
 
 **目的別に項目を分けてあるので、対象の項目を選び活用してください。**
@@ -9,6 +11,9 @@
 このリポジトリやプログラミング学習について何か質問がある場合は上記のJOIN CHATでコメントしてください。
 
 JOIN CHAT を利用する場合は、GitHubのアカウントが必要です。
+
+<img src="http://keepingblog.net/github_images/workspace/doroid.gif" width="250" height="300">
+<img src="http://keepingblog.net/github_images/workspace/masashi.gif" width="250" height="300">
 
 ## ◆ 1人1アプリ開発のサンプルコードについて知りたい。
 - SampleQuestionのソースコード  

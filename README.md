@@ -87,9 +87,9 @@ http://temakishiki.com/?p=237
 - 「GitHubでチーム開発の実践！！」  
 http://goo.gl/D37QmJ
 - 「Git, GitHubのチュートリアル」  
-http://goo.gl/RJ43oC
-- 「GitHubで社内学習環境を作る！！」  
 http://goo.gl/8yYLxz
+- 「GitHubで社内学習環境を作る！！」  
+http://goo.gl/RJ43oC
 
 　**下記のリポジトリに加入方法について記載しています。**  
 　少し難しいかもしれませんが、まずは自己紹介.mdをmembersにpushしてみてください。

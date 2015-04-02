@@ -64,7 +64,7 @@ https://github.com/miyake-yasunaga/03_Image
 - 04_image  
 https://github.com/miyake-yasunaga/04_Image
 
-　**Google社が公開するサンプルアプリです**  
+　**Googleが公開するサンプルアプリです**  
 - googlesamples  
 https://github.com/googlesamples  
 

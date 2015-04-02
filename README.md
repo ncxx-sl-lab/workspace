@@ -64,6 +64,13 @@ https://github.com/miyake-yasunaga/03_Image
 - 04_image  
 https://github.com/miyake-yasunaga/04_Image
 
+　**Google社が公開するサンプルアプリです**  
+- googlesamples  
+https://github.com/googlesamples  
+
+　**Google純正アプリなので、これ以上のお手本はないでしょう。**
+- Google I/O Android App  
+https://github.com/google/iosched
 
 ## ◆ Git, GitHubの使い方について知りたい。
 　**Git, GitHubの使い方について簡単にまとめました。** 

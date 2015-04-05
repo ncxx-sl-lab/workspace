@@ -78,7 +78,7 @@ https://github.com/google/iosched
 - Gitのインストールや、GitHubの使い方は下記のリポジトリのwikiを参照してください。  
 https://github.com/ncxx-sl-lab/git-tutorial
 - AtlassianのGitチュートリアルです。カラーで分かり易い。  
-https://www.atlassian.com/ja/git/tutorial/git-basics
+https://www.atlassian.com/ja/git/tutorial
 - GitHubの小ネタや便利な使い方が紹介されているチートシートです。  
 https://github.com/ncxx-sl-lab/github-cheat-sheet/blob/master/README.ja.md
 

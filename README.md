@@ -77,6 +77,8 @@ https://github.com/google/iosched
 
 - Gitのインストールや、GitHubの使い方は下記のリポジトリのwikiを参照してください。  
 https://github.com/ncxx-sl-lab/git-tutorial
+- mixiの新卒研修で使用されているGitの研修資料。わかりやすい。  
+http://alpha.mixi.co.jp/entry/20150513  
 - AtlassianのGitチュートリアルです。カラーで分かり易い。  
 https://www.atlassian.com/ja/git/tutorial
 - GitHubの小ネタや便利な使い方が紹介されているチートシートです。  

@@ -29,9 +29,13 @@ https://github.com/ncxx-sl-lab/SampleQuestion/tree/pre
 - Qiitaのストック  
 https://qiita.com/masashi-windows/stock
 
-　**最新のAndroid Studioで解説しながら、豊富なサンプルを紹介しているオススメ書籍です。**
+　**最新のAndroid Studioで解説しながら、豊富なサンプルを紹介している書籍です。**
 - Androidプログラミングバイブル SDK5/4対応  
+（一部サンプルコードがバージョンによってうまくビルドできない場合があるらしい。）  
 http://goo.gl/TAL0K0
+
+- はじめよう Android Studioでアプリ開発  
+http://goo.gl/QAu89l  
 
 　**Androidの開発でちょっと困った時に頼りになるTips集です。**
 - Effective Android   

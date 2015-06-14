@@ -76,6 +76,13 @@ https://github.com/googlesamples
 - Google I/O Android App  
 https://github.com/google/iosched
 
+## ◆ Genymotionのインストール方法  
+  **Genymotionとは、Androidの高速エミュレーターです。**  
+  
+- Genymotion + Android Studio on Windows  
+http://qiita.com/Sam/items/44ee1ec1fdc902f92b79  
+
+
 ## ◆ Git, GitHubの使い方について知りたい。
 　**Git, GitHubの使い方について簡単にまとめました。** 
 
